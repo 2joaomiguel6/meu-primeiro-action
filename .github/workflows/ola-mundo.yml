@@ -7,4 +7,4 @@ jobs:
       - name: Dizer ola
         run: echo "João Miguel Novais de Souza"
       - name: Dizer ola
-        run: echo "0221432511022"
+        run: date
